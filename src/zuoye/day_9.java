@@ -1,5 +1,6 @@
 package zuoye;
 //水仙花数
+//利用循环寻找水仙花数
 public class day_9 {
     public static void main(String[] args) {
        siye();

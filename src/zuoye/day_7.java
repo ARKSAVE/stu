@@ -5,7 +5,7 @@ package zuoye;
  *
  * 銀行收銀功能
  */
-
+//这是利用hashMap写的管理系统
 
 import java.util.HashMap;
 import java.util.Scanner;

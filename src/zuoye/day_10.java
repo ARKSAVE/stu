@@ -1,7 +1,7 @@
 package zuoye;
 
 import java.util.Scanner;
-
+//斐波那契函数
 public class day_10 {
     public static void main(String[] args) {
         run();

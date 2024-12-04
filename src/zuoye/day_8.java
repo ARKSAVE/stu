@@ -3,6 +3,8 @@ package zuoye;
 
 import java.util.Random;
 
+
+//利用排序给1000内随机数从小到大排序
 public class day_8 {
 
     public static void main(String[] args) {
