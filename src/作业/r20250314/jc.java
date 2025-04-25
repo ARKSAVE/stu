@@ -1,4 +1,7 @@
 package 作业.r20250314;
+
+import static 学习.接口.jk.a;
+
 //继承和方法重写
 public class jc{
     public static void main(String[] args) {
@@ -15,8 +18,11 @@ public class jc{
     }
 }
 class Shape{
+
     void draw(){
         System.out.println("画一个图形");
+
+
     }
 }
 

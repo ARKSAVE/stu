@@ -1,7 +1,11 @@
+import java.util.Random;
+
 public class day_3 {
     public static void main(String[] args) {
         boolean flag = true;
         int num = 0;
+        Random rand = new Random();
+        rand.nextInt(100);
         while (flag) {
             if (num<3){
                 num++;
